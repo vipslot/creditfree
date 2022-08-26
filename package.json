@@ -1,12 +1,13 @@
 {
-  "name": "vipslot",
-  "main": "vipslot",
+  "name": "vipslot-name",
+  "main": "vipslot-name",
   "theme": "syntax",
   "version": "1.3.0",
   "description": "",
   "keywords": [
     "credit free",
-    "vipslot888"
+    "vipslot888",
+    "เครดิตฟรี"
   ],
   "repository": "https://github.com/vipslot/creditfree",
   "license": "MIT",
