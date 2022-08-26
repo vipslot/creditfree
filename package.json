@@ -1,11 +1,12 @@
 {
-    "name": "creditFree",
-    "main": "creditFree",
+    "name": "vipslot",
+    "main": "vipslot",
     "theme": "syntax",
     "version": "1.0.1",
     "description": "",
     "keywords": [
-      "credit free"
+      "credit free",
+      "vipslot888"
     ],
     "repository": "https://github.com/vipslot/creditfree",
     "license": "MIT",
